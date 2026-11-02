@@ -103,6 +103,6 @@ scripts/          Python agents, collector, dashboard, backup and recovery tools
 
 ## My contribution
 
-I deployed and configured the Linux VMs, networking, firewall rules, services and backup storage; ran controlled outage, sensor interruption and restoration exercises; and collected the screenshots and exported results. The project used supplied Python starter scripts. The report documents the procedures, actual observations and record-ID reconciliation.
+I deployed and configured the Linux VMs, networking, firewall rules, services and backup storage; ran controlled outage, sensor interruption and restoration exercises; and collected the screenshots and exported results. The project deployed and tested a monitoring lab using AI-assisted Python scripts, configuring Linux networking, services, storage, and backup recovery. The report documents the procedures, actual observations and record-ID reconciliation.
 
 **Author:** Saeed Hersi · [GitHub](https://github.com/960hersi)
